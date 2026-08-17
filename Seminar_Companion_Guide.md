@@ -1,5 +1,5 @@
-# MAT399 Seminar 1 — Companion Guide
-**Student:** Vishnupriya M &nbsp;|&nbsp; **Register No.:** 127150060 &nbsp;|&nbsp; **Programme:** M.Sc. Data Science
+# Seminar 1
+**Student:**            &nbsp;|&nbsp; **Register No.:**        &nbsp;|&nbsp; **Programme:** M.Sc. Data Science
 **Paper:** *A Novel Vision Transformer Model for Skin Cancer Classification* — Yang, Luo & Greer, *Neural Processing Letters* (2023), Vol. 55, pp. 9335–9351, DOI: 10.1007/s11063-023-11204-5
 
 This guide supplements the slide deck (`127150060_VISHNUPRIYA_Seminar1.pptx`). It provides everything MAT399 asks for in writing: the eligibility check, extracted guideline requirements, the timing plan, 25+ viva questions, references, and a final compliance checklist.
