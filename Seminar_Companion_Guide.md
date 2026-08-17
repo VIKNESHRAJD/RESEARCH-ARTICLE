@@ -180,11 +180,11 @@ Yang, G., Luo, S., & Greer, P. (2023). A Novel Vision Transformer Model for Skin
 
 ---
 
-## 9. Final MAT399 Compliance Checklist
+## 9. Final Compliance Checklist
 
 | # | Check | Status |
 |---|---|---|
-| 1 | Every required MAT399 section appears | ✅ |
+| 1 | Every required  section appears | ✅ |
 | 2 | Student details correct (Vishnupriya M, 127150060) | ✅ |
 | 3 | Paper title correct | ✅ |
 | 4 | Author names correct (Yang, Luo, Greer) | ✅ |
@@ -205,4 +205,3 @@ Yang, G., Luo, S., & Greer, P. (2023). A Novel Vision Transformer Model for Skin
 | 19 | At least 25 viva questions prepared | ✅ (35 provided) |
 | 20 | Final PPT professional enough for an academic seminar | ✅ |
 
-**Overall result: MAT399-compliant and ready to present.**
