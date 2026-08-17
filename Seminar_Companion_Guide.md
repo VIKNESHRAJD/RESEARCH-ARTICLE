@@ -6,7 +6,7 @@
 
 ## 1. Paper Eligibility Check
 
-| Requirement (per MAT399 guidelines) | Status | Evidence |
+| Requirement  | Status | Evidence |
 |---|---|---|
 | Is it a research article (not review/preprint/blog)? | ✅ Yes | **[A]** Presents an original method (ViTfSCD), original experiments, and new results — not a survey. |
 | Is it a journal article? | ✅ Yes | **[A]** Published in *Neural Processing Letters* (Springer). |
