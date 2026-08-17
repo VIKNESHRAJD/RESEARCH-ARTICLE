@@ -21,9 +21,9 @@
 
 ---
 
-## 2. Extracted MAT399 Requirements (source: guideline images) **[B]**
+## 2. Extracted MAT399 Requirements **[B]**
 
-- **Course:** MAT399 — Seminar, M.Sc. Data Science & M.Sc. Mathematics (Integrated); instructors Dr. Vignesh R & Dr. Kalidasan S.
+- **Course:** MAT399 — Seminar, M.Sc. Data Science 
 - **Article selection:** Two (2) research articles per student per semester; must be SCI/SCIE-indexed journal articles from 2022–2026; conference papers, book chapters, magazines, blogs, preprints, or AI-generated summaries are **not** permitted unless approved.
 - **Approved areas:** AI/ML/DL; NLP, CV, LLMs; Data Mining/Big Data/Time Series; Graph/Federated/Edge/Responsible AI; Healthcare Analytics/Cybersecurity/AI Applications; plus several pure/applied mathematics areas.
 - **Session structure:** Presentation = **10 minutes**; Discussion & Questions = **5 minutes**. Must complete within the allotted time.
